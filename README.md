@@ -8,7 +8,7 @@
 
 -👨‍💻 All of my projects are available at [https://github.com/ayushhthakurr](https://github.com/ayushhthakurr)
 
--📫 How to reach me **mail.ayushforwork@gmail.com**
+-📫 How to reach me **work.ayushthakur@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
