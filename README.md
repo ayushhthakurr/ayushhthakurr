@@ -1,5 +1,5 @@
 <p align="center">Hi 👋, I'm Ayush Thakur</p>
-<br> I am a Flutter developer from Vellore Institute of Technology. I am passionate about building beautiful and responsive mobile applications. I also have some experience with C++ programming.<br><br>-📫 How to reach me work.ayushthakur@gmail.com
+<br> I am a Flutter developer from Vellore Institute of Technology. I am passionate about building beautiful and responsive mobile applications. I also have some experience with C++ programming.<br><br>-📫 How to reach me : work.ayushthakur@gmail.com
 
 
 ## <i>Follow me:</i><br>
