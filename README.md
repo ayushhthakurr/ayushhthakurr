@@ -1,7 +1,13 @@
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&color=%2379A500&height=67&duration=3000&center=true&lines=%F0%9F%85%B6%F0%9F%86%81%F0%9F%85%B4%F0%9F%85%B4%F0%9F%86%83%F0%9F%85%B8%F0%9F%85%BD%F0%9F%85%B6%F0%9F%86%82">
+<!--🖼️RICK-->
+<p align="center">
+<img src="https://c.tenor.com/p7IgwS17V0sAAAAC/rtj-rick-and-morty.gif" height="240" width="370">
 <p align="center">Hi 👋, I'm Ayush Thakur</p>
+<!--📏LINE--><img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 <br> I am a Flutter developer from Vellore Institute of Technology. I am passionate about building beautiful and responsive mobile applications. I also have some experience with C++ programming.<br><br>-📫 How to reach me : work.ayushthakur@gmail.com
-
-
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200" height="200">
+   
 ## <i>Follow me:</i><br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ayush-thakur-1b1127221/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@thakurayush817) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/AyushhThakurr) 
 
