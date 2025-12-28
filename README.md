@@ -1,16 +1,22 @@
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&color=%2379A500&height=67&duration=3000&center=true&lines=%F0%9F%85%B6%F0%9F%86%81%F0%9F%85%B4%F0%9F%85%B4%F0%9F%86%83%F0%9F%85%B8%F0%9F%85%BD%F0%9F%85%B6%F0%9F%86%82">
-   
-### 👋 Hi, I'm Ayush Thakur!
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=36&duration=1000&pause=500&color=79A500&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Ayush!+%F0%9F%91%8B;नमस्ते%2C+मैं+आयुष+हूँ!;Salut%2C+je+suis+Ayush!;你好%2C+我是+Ayush!;こんにちは、Ayushです!;Hola%2C+soy+Ayush!"
+    alt="Typing SVG"
+  />
+</p>
 
-👩🏻‍💻 Exploring the world of technology and sharing my journey as a Software Engineer. <br/>
-👩🏻‍🎓 Final-year Computer Science student at VIT Bhopal University. <br/>
-💭 Currently diving into new technologies, DSA, and development! <br/>
-
-📫 Reach me at thakurayush817@gmail.com or my [website](https://ayushhthakurr.github.io/Portfolio-Ayush/).
-
-##
-![](https://komarev.com/ghpvc/?username=ayushhthakurr&color=blue) 
+🎓 **Computer Science Graduate** from **VIT** 🇮🇳  
+👩🏻‍💻 Developer ・ Explorer ・ Always Curious  
+💭 Passionate about backend systems, problem-solving, and building real-world software  
 
 
+📫 Reach me at **thakurayush817@gmail.com**  or my [Portfolio](https://ayushhthakurr.github.io/Portfolio-Ayush/)
 
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/siphyshu/siphyshu/output/github-snake-dark.svg" alt="github snake animation"/>
+</p>
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=ayushhthakurr&style=flat-square&color=blue" alt="profile views"/>
+</p>
