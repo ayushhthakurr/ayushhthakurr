@@ -14,9 +14,10 @@
 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/siphyshu/siphyshu/output/github-snake-dark.svg" alt="github snake animation"/>
+  <img src="https://raw.githubusercontent.com/ayushhthakurr/ayushhthakurr/output/github-snake.svg" alt="github snake animation" />
 </p>
 
-<p align="left">
+
+<p align="right">
   <img src="https://komarev.com/ghpvc/?username=ayushhthakurr&style=flat-square&color=blue" alt="profile views"/>
 </p>
