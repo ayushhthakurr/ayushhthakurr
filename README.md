@@ -10,7 +10,7 @@
 💭 Passionate about backend systems, problem-solving, and building real-world software  
 
 
-📫 Reach me at **thakurayush817@gmail.com**  or my [Portfolio](https://ayushhthakurr.github.io/Portfolio-Ayush/)
+📫 Reach me at **thakurayush817@gmail.com**  or My [Portfolio](https://ayushhthakurr.github.io/Portfolio-Ayush/)
 
 
 <p align="center">
