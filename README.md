@@ -5,7 +5,6 @@
   />
 </p>
 
-🎓 **Computer Science Graduate** from **VIT** 🇮🇳  
 👩🏻‍💻 Developer ・ Explorer ・ Always Curious  
 💭 Passionate about backend systems, problem-solving, and building real-world software  
 
